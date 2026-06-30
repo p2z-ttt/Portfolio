@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Créations — P2Z</title>
+<link rel="icon" type="image/png" sizes="32x32" href="assets/presentation/favicon-32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="assets/presentation/favicon-16.png">
+<link rel="apple-touch-icon" sizes="180x180" href="assets/presentation/apple-touch-icon.png">
+<link rel="shortcut icon" href="favicon.ico">
+<meta name="theme-color" content="#efe7d6">
+<link rel="stylesheet" href="style.css">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Anton&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body data-page="creations">
+
+<header class="nav">
+  <a class="brand" href="index.html" aria-label="Accueil">
+    <img id="brand-logo" src="assets/presentation/logo.png" alt="P2Z" class="brand-logo">
+  </a>
+  <nav class="nav-links">
+    <a href="index.html">Accueil</a>
+    <a href="realisations.html">Réalisations</a>
+    <a href="flashs.html">Flashs</a>
+    <a href="creations.html" class="active">Créations</a>
+  </nav>
+  <button class="burger" aria-label="Ouvrir le menu" aria-expanded="false">
+    <span></span><span></span><span></span>
+  </button>
+</header>
+
+<main class="page">
+  <header class="page-head">
+    <p class="kicker" data-bind="creations.kicker"></p>
+    <h1 class="display" data-bind="creations.title"></h1>
+    <p class="page-sub" data-bind="creations.sub"></p>
+  </header>
+
+  <div id="creations-root"></div>
+</main>
+
+<div class="lightbox" id="lightbox" hidden>
+  <button class="lb-close" aria-label="Fermer">×</button>
+  <button class="lb-prev" aria-label="Précédent">‹</button>
+  <button class="lb-next" aria-label="Suivant">›</button>
+  <div class="lb-stage"></div>
+  <div class="lb-caption"></div>
+  <div class="lb-counter"></div>
+</div>
+
+<footer class="foot" id="footer"></footer>
+
+<script src="data.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,548 @@
+/* P2Z — fichier de données généré par admin.html
+   Ne pas éditer à la main. */
+window.SITE_DATA = {
+  "site": {
+    "name": "P2Z",
+    "title": "P2Z — Tatouage",
+    "studio_address": "16 Rue de Lyon, 1201 Genève",
+    "instagram": "p2z.ttt",
+    "tiktok": "p2z.ttt",
+    "logo": "assets/presentation/logo.png"
+  },
+  "font_overrides": {},
+  "home": {
+    "kicker": "Apprentie tatoueuse · Genève",
+    "title": "HELLO",
+    "signature_html": "Moi c'est <strong>Emma</strong>, alias <strong>P2Z</strong>.",
+    "bio_paragraphs": [
+      "Je suis une jeune artiste, apprentie tatoueuse passionnée, avec un style qui mêle finesse, sensibilité et équilibre entre l'abstrait et le concret. Inspirée par la culture japonaise, j'aime en retranscrire l'esthétique et la symbolique dans certains de mes dessins, tout en gardant une touche personnelle et contemporaine.",
+      "Pour moi, chaque tatouage est une rencontre et une création unique. J'attache une grande importance à concevoir des motifs qui s'harmonisent avec la morphologie, la peau et les goûts de la personne qui les porte. Mon objectif est de créer des pièces qui ne soient pas seulement belles sur le papier, mais qui trouvent toute leur force et leur justesse une fois inscrites sur le corps."
+    ],
+    "portrait": "assets/presentation/IMG_5289.jpg",
+    "atelier": {
+      "title": "PASSIONNÉE",
+      "photos": [
+        "assets/presentation/IMG_4881.jpg",
+        "assets/presentation/IMG_5288.jpg",
+        "assets/presentation/IMG_4897.jpg"
+      ]
+    }
+  },
+  "realisations": [
+    {
+      "id": "01",
+      "title": "",
+      "description": "",
+      "cover": "assets/realisations/1/IMG_1148.jpg",
+      "items": [
+        {
+          "type": "image",
+          "src": "assets/realisations/1/IMG_1148.jpg"
+        },
+        {
+          "type": "video",
+          "src": "assets/realisations/1/IMG_1157.mp4"
+        }
+      ]
+    },
+    {
+      "id": "02",
+      "title": "",
+      "description": "",
+      "cover": "assets/realisations/2/IMG_1873.jpg",
+      "items": [
+        {
+          "type": "image",
+          "src": "assets/realisations/2/IMG_1873.jpg"
+        },
+        {
+          "type": "video",
+          "src": "assets/realisations/2/IMG_1863.mp4"
+        }
+      ]
+    },
+    {
+      "id": "03",
+      "title": "",
+      "description": "",
+      "cover": "assets/realisations/3/IMG_3265.jpg",
+      "items": [
+        {
+          "type": "image",
+          "src": "assets/realisations/3/IMG_3265.jpg"
+        },
+        {
+          "type": "video",
+          "src": "assets/realisations/3/IMG_3262.mp4"
+        }
+      ]
+    },
+    {
+      "id": "04",
+      "title": "",
+      "description": "",
+      "cover": "assets/realisations/4/IMG_4472.jpg",
+      "items": [
+        {
+          "type": "image",
+          "src": "assets/realisations/4/IMG_4472.jpg"
+        },
+        {
+          "type": "video",
+          "src": "assets/realisations/4/IMG_4470.mp4"
+        }
+      ]
+    },
+    {
+      "id": "05",
+      "title": "",
+      "description": "",
+      "cover": "assets/realisations/5/IMG_4664.jpg",
+      "items": [
+        {
+          "type": "image",
+          "src": "assets/realisations/5/IMG_4664.jpg"
+        },
+        {
+          "type": "image",
+          "src": "assets/realisations/5/IMG_4669.jpg"
+        },
+        {
+          "type": "video",
+          "src": "assets/realisations/5/IMG_4659.mp4"
+        }
+      ]
+    },
+    {
+      "id": "06",
+      "title": "",
+      "description": "",
+      "cover": "assets/realisations/6/IMG_4977.jpg",
+      "items": [
+        {
+          "type": "image",
+          "src": "assets/realisations/6/IMG_4977.jpg"
+        },
+        {
+          "type": "image",
+          "src": "assets/realisations/6/IMG_4979.jpg"
+        },
+        {
+          "type": "video",
+          "src": "assets/realisations/6/IMG_4970.mp4"
+        }
+      ]
+    },
+    {
+      "id": "07",
+      "title": "",
+      "description": "",
+      "cover": "assets/realisations/7/IMG_4559.jpg",
+      "items": [
+        {
+          "type": "image",
+          "src": "assets/realisations/7/IMG_4559.jpg"
+        },
+        {
+          "type": "video",
+          "src": "assets/realisations/7/IMG_4558.mp4"
+        }
+      ]
+    },
+    {
+      "id": "08",
+      "title": "",
+      "description": "",
+      "cover": "assets/realisations/8/IMG_5194.jpg",
+      "items": [
+        {
+          "type": "image",
+          "src": "assets/realisations/8/IMG_5194.jpg"
+        },
+        {
+          "type": "video",
+          "src": "assets/realisations/8/IMG_5193.mp4"
+        }
+      ]
+    },
+    {
+      "id": "09",
+      "title": "",
+      "description": "",
+      "cover": "assets/realisations/9/IMG_5057.jpg",
+      "items": [
+        {
+          "type": "image",
+          "src": "assets/realisations/9/IMG_5057.jpg"
+        },
+        {
+          "type": "video",
+          "src": "assets/realisations/9/IMG_5051.mp4"
+        }
+      ]
+    }
+  ],
+  "flashs": [
+    {
+      "src": "assets/flashs/IMG_1212.jpg",
+      "title": ""
+    },
+    {
+      "src": "assets/flashs/IMG_1213.jpg",
+      "title": ""
+    },
+    {
+      "src": "assets/flashs/IMG_1214.jpg",
+      "title": ""
+    },
+    {
+      "src": "assets/flashs/IMG_1215.jpg",
+      "title": ""
+    },
+    {
+      "src": "assets/flashs/IMG_1216.jpg",
+      "title": ""
+    },
+    {
+      "src": "assets/flashs/IMG_1217.jpg",
+      "title": ""
+    },
+    {
+      "src": "assets/flashs/IMG_1218.jpg",
+      "title": ""
+    },
+    {
+      "src": "assets/flashs/IMG_1219.jpg",
+      "title": ""
+    },
+    {
+      "src": "assets/flashs/IMG_1222.jpg",
+      "title": ""
+    },
+    {
+      "src": "assets/flashs/IMG_1223.jpg",
+      "title": ""
+    },
+    {
+      "src": "assets/flashs/IMG_1224.jpg",
+      "title": ""
+    },
+    {
+      "src": "assets/flashs/IMG_1245.jpg",
+      "title": ""
+    },
+    {
+      "src": "assets/flashs/IMG_1246.jpg",
+      "title": ""
+    },
+    {
+      "src": "assets/flashs/IMG_1248.jpg",
+      "title": ""
+    },
+    {
+      "src": "assets/flashs/IMG_1249.jpg",
+      "title": ""
+    },
+    {
+      "src": "assets/flashs/IMG_1250.jpg",
+      "title": ""
+    },
+    {
+      "src": "assets/flashs/IMG_1251.jpg",
+      "title": ""
+    },
+    {
+      "src": "assets/flashs/IMG_1252.jpg",
+      "title": ""
+    },
+    {
+      "src": "assets/flashs/IMG_1417.jpg",
+      "title": ""
+    },
+    {
+      "src": "assets/flashs/IMG_1418.jpg",
+      "title": ""
+    },
+    {
+      "src": "assets/flashs/IMG_1419.jpg",
+      "title": ""
+    },
+    {
+      "src": "assets/flashs/IMG_1420.jpg",
+      "title": ""
+    },
+    {
+      "src": "assets/flashs/IMG_1421.jpg",
+      "title": ""
+    },
+    {
+      "src": "assets/flashs/IMG_1422.jpg",
+      "title": ""
+    },
+    {
+      "src": "assets/flashs/IMG_1423.jpg",
+      "title": ""
+    },
+    {
+      "src": "assets/flashs/IMG_1424.jpg",
+      "title": ""
+    },
+    {
+      "src": "assets/flashs/IMG_1425.jpg",
+      "title": ""
+    },
+    {
+      "src": "assets/flashs/IMG_1426.jpg",
+      "title": ""
+    },
+    {
+      "src": "assets/flashs/IMG_1427.jpg",
+      "title": ""
+    },
+    {
+      "src": "assets/flashs/IMG_1428.jpg",
+      "title": ""
+    },
+    {
+      "src": "assets/flashs/IMG_1429.jpg",
+      "title": ""
+    },
+    {
+      "src": "assets/flashs/IMG_1430.jpg",
+      "title": ""
+    },
+    {
+      "src": "assets/flashs/IMG_1431.jpg",
+      "title": ""
+    },
+    {
+      "src": "assets/flashs/IMG_1432.jpg",
+      "title": ""
+    },
+    {
+      "src": "assets/flashs/IMG_1433.jpg",
+      "title": ""
+    },
+    {
+      "src": "assets/flashs/IMG_1434.jpg",
+      "title": ""
+    },
+    {
+      "src": "assets/flashs/IMG_1435.jpg",
+      "title": ""
+    },
+    {
+      "src": "assets/flashs/IMG_1436.jpg",
+      "title": ""
+    },
+    {
+      "src": "assets/flashs/IMG_1437.jpg",
+      "title": ""
+    },
+    {
+      "src": "assets/flashs/IMG_1438.jpg",
+      "title": ""
+    },
+    {
+      "src": "assets/flashs/IMG_1477.jpg",
+      "title": ""
+    },
+    {
+      "src": "assets/flashs/IMG_1478.jpg",
+      "title": ""
+    },
+    {
+      "src": "assets/flashs/IMG_1564.jpg",
+      "title": ""
+    },
+    {
+      "src": "assets/flashs/IMG_1565.jpg",
+      "title": ""
+    },
+    {
+      "src": "assets/flashs/IMG_1650.jpg",
+      "title": ""
+    },
+    {
+      "src": "assets/flashs/IMG_1651.jpg",
+      "title": ""
+    },
+    {
+      "src": "assets/flashs/IMG_1652.jpg",
+      "title": ""
+    },
+    {
+      "src": "assets/flashs/IMG_1699.jpg",
+      "title": ""
+    },
+    {
+      "src": "assets/flashs/IMG_1700.jpg",
+      "title": ""
+    },
+    {
+      "src": "assets/flashs/IMG_1701.jpg",
+      "title": ""
+    },
+    {
+      "src": "assets/flashs/IMG_1702.jpg",
+      "title": ""
+    },
+    {
+      "src": "assets/flashs/IMG_1706.jpg",
+      "title": ""
+    },
+    {
+      "src": "assets/flashs/IMG_1707.jpg",
+      "title": ""
+    },
+    {
+      "src": "assets/flashs/IMG_1708.jpg",
+      "title": ""
+    },
+    {
+      "src": "assets/flashs/IMG_1709.jpg",
+      "title": ""
+    },
+    {
+      "src": "assets/flashs/IMG_1710.jpg",
+      "title": ""
+    },
+    {
+      "src": "assets/flashs/IMG_1711.jpg",
+      "title": ""
+    }
+  ],
+  "creations": {
+    "kicker": "Artisanat",
+    "title": "CRÉATIONS",
+    "sub": "Bijoux, porte-clés et autres objets faits main.",
+    "categories_order": [
+      "Bijoux",
+      "Porte-clés",
+      "Autres"
+    ],
+    "items": [
+      {
+        "category": "Bijoux",
+        "title": "",
+        "description": "",
+        "src": "assets/creations/bijoux/bijou_1.JPG",
+        "gallery": [
+          "assets/creations/bijoux/bijou_1.JPG",
+          "assets/creations/bijoux/bijou_1_alt.JPG"
+        ]
+      },
+      {
+        "category": "Bijoux",
+        "title": "",
+        "description": "",
+        "src": "assets/creations/bijoux/bijou_2.JPG",
+        "gallery": [
+          "assets/creations/bijoux/bijou_2.JPG",
+          "assets/creations/bijoux/bijou_2_alt.JPG"
+        ]
+      },
+      {
+        "category": "Bijoux",
+        "title": "",
+        "description": "",
+        "src": "assets/creations/bijoux/bijou_3.JPG",
+        "gallery": [
+          "assets/creations/bijoux/bijou_3.JPG",
+          "assets/creations/bijoux/bijou_3_alt.JPG"
+        ]
+      },
+      {
+        "category": "Bijoux",
+        "title": "",
+        "description": "",
+        "src": "assets/creations/bijoux/bijou_4.JPG",
+        "gallery": [
+          "assets/creations/bijoux/bijou_4.JPG",
+          "assets/creations/bijoux/bijou_4_alt.JPG"
+        ]
+      },
+      {
+        "category": "Bijoux",
+        "title": "",
+        "description": "",
+        "src": "assets/creations/bijoux/bijou_5.JPG",
+        "gallery": [
+          "assets/creations/bijoux/bijou_5.JPG",
+          "assets/creations/bijoux/bijou_5_alt.JPG"
+        ]
+      },
+      {
+        "category": "Bijoux",
+        "title": "",
+        "description": "",
+        "src": "assets/creations/bijoux/bijou_6.JPG",
+        "gallery": [
+          "assets/creations/bijoux/bijou_6.JPG",
+          "assets/creations/bijoux/bijou_6_alt.JPG"
+        ]
+      },
+      {
+        "category": "Bijoux",
+        "title": "",
+        "description": "",
+        "src": "assets/creations/bijoux/bijou_7.JPG",
+        "gallery": [
+          "assets/creations/bijoux/bijou_7.JPG",
+          "assets/creations/bijoux/bijou_7_alt.JPG"
+        ]
+      },
+      {
+        "category": "Bijoux",
+        "title": "",
+        "description": "",
+        "src": "assets/creations/bijoux/bijou_8.JPG",
+        "gallery": [
+          "assets/creations/bijoux/bijou_8.JPG",
+          "assets/creations/bijoux/bijou_8_alt.JPG"
+        ]
+      },
+      {
+        "category": "Bijoux",
+        "title": "",
+        "description": "",
+        "src": "assets/creations/bijoux/bijou_9.JPG",
+        "gallery": [
+          "assets/creations/bijoux/bijou_9.JPG",
+          "assets/creations/bijoux/bijou_9_alt.JPG"
+        ]
+      },
+      {
+        "category": "Porte<span class=\"font-anton\">-</span>clés",
+        "title": "",
+        "description": "",
+        "src": "assets/creations/portes-cles/porte_cle_1.JPG"
+      },
+      {
+        "category": "Porte<span class=\"font-anton\">-</span>clés",
+        "title": "",
+        "description": "",
+        "src": "assets/creations/portes-cles/porte_cle_2.JPG"
+      },
+      {
+        "category": "Porte<span class=\"font-anton\">-</span>clés",
+        "title": "",
+        "description": "",
+        "src": "assets/creations/portes-cles/porte_cle_3.JPG"
+      },
+      {
+        "category": "Porte<span class=\"font-anton\">-</span>clés",
+        "title": "",
+        "description": "",
+        "src": "assets/creations/portes-cles/porte_cle_4.JPG"
+      },
+      {
+        "category": "Autres",
+        "title": "",
+        "description": "",
+        "src": "",
+        "type": "placeholder"
+      }
+    ]
+  }
+};
